@@ -78,8 +78,8 @@ echo '<span class="pull-right top title1" ><span class="log1"><span class="glyph
         <li class="dropdown <?php if(@$_GET['q']==4 || @$_GET['q']==5) echo'active"'; ?>">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quiz<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="dash.php?q=4">Add Quiz</a></li>
-            <li><a href="dash.php?q=5">Remove Quiz</a></li>
+            <li><a href="dash.php?q=4">Add Question</a></li>
+            <li><a href="dash.php?q=5">Remove Question</a></li>
 			
           </ul>
         </li><li class="pull-right"> <a href="logout.php?q=account.php"><span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;&nbsp;Signout</a></li>
