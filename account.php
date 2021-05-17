@@ -275,10 +275,10 @@ echo '</table></div></div>';}
 		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Odhiambo Atieno</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+254797049288</h4>
+		<h4 style="font-family:'typo' ">seentechs@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Seen Technologies</h4></div></div>
 		</p>
       </div>
     
