@@ -67,7 +67,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="submit" class="btn btn-primary">Log in</button>
+        <button type="submit" class="btn btn-primary">Log In</button>
 		</fieldset>
 </form>
       </div>
@@ -200,7 +200,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <div class="col-md-5">
 		<a href="https://odhiamboatieno.com" style=" font-family:'typo' ; font-size:18px" title="Find on Facebook">Odhiambo Atieno</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+254797049288</h4>
-		<h4 style="font-family:'typo' ">odhiamboiastieno@gmail.com</h4>
+		<h4 style="font-family:'typo' ">odhiamboisatieno@gmail.com</h4>
 		<h4 style="font-family:'typo' ">Founder at <a href="https://seentechs.com"> Seen Technologies </a></h4></div></div>
 		</p>
       </div>
