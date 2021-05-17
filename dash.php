@@ -387,7 +387,7 @@ echo '<div class="form-group">
 }
 ?><!--add quiz step 2 end-->
 
-<!--remove quiz-->
+<!--remove question-->
 <?php if(@$_GET['q']==5) {
 
 $result = mysqli_query($con,"SELECT * FROM quiz ORDER BY date DESC") or die('Error');
