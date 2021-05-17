@@ -35,7 +35,7 @@ header("location:account.php?q=1");
 }
 else
 {
-header("location:index.php?q7=Email Already Registered!!!");
+header("location:index.php?q7=Email Already Registered! Please Use another Email");
 }
 ob_end_flush();
 ?>
