@@ -103,7 +103,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
   <label class="col-md-12 control-label" for="gender"></label>
   <div class="col-md-12">
     <select id="gender" name="gender" placeholder="Enter your gender" class="form-control input-md" >
-   <option value="Male">Select Gender</option>
+   <option value="Male">Select Your Gender</option>
   <option value="M">Male</option>
   <option value="F">Female</option> </select>
   </div>
